@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
 import Contact from './components/contact/Contact';
-import Portfolia from './components/portfolia/Portfolia';
+import Portfolio from './components/portfolio/Portfolio';
 import Testimonials from "./components/testimonials/Testimonials"
 import Footer from "./components/footer/Footer"
 import About from "./components/about/About"
@@ -17,7 +17,7 @@ return (
     <About />
     <Experience />
     <Services/>
-    <Portfolia />
+    <Portfolio />
     <Contact/>
     <Testimonials/>
     <Footer/>
