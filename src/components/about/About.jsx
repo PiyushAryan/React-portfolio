@@ -30,9 +30,7 @@ const About = () => {
             <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects & Research Papers</h5>
-            <small>- Email Classifier using Machine Learning</small><br></br>
-            <small>- Smart Agriculture System</small><br></br>
-            <small>- Smart Agriculture System using IOT (Research Paper)</small>
+            <small>5 and still counting</small>
             {/* replicate as your need */}
           </article>
         </div>
