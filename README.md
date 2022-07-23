@@ -1,5 +1,9 @@
 # Getting Started with Create React App
-Live Link : https://magnificent-licorice-82594a.netlify.app/
+# Welcome to the Read-ME of Front End Development using REACT JS
+The Live Website Link: https://magnificent-licorice-82594a.netlify.app/
+
+and the source code and othe files related to the project is available on github repo 
+I will happy if you visit: https://github.com/PiyushAryan/site2
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
