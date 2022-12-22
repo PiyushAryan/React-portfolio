@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 # Welcome to the Read-ME of Front End Development using REACT JS
 Website with custom Domain : https://piyusharyan.me
 The Live Website Link: https://magnificent-licorice-82594a.netlify.app/
